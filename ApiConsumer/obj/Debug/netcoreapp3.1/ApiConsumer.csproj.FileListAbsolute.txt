@@ -1,0 +1,54 @@
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\ApiConsumer.exe
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\ApiConsumer.deps.json
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\ApiConsumer.runtimeconfig.json
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\ApiConsumer.runtimeconfig.dev.json
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\ApiConsumer.dll
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\ApiConsumer.pdb
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer.csprojAssemblyReference.cache
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\App.g.cs
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer_MarkupCompile.cache
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer_MarkupCompile.lref
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer.g.resources
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer.AssemblyInfoInputs.cache
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer.AssemblyInfo.cs
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer.csproj.CoreCompileInputs.cache
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer.dll
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer.pdb
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer.genruntimeconfig.cache
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\HelperLibrary.dll
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\HelperLibrary.pdb
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\SunInfo.g.cs
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\SunInfo.baml
+C:\web projects\xkcdAPI\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer.csproj.CopyComplete
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\ApiConsumer.exe
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\ApiConsumer.deps.json
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\ApiConsumer.runtimeconfig.json
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\ApiConsumer.runtimeconfig.dev.json
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\ApiConsumer.dll
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\ApiConsumer.pdb
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\HelperLibrary.dll
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\bin\Debug\netcoreapp3.1\HelperLibrary.pdb
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer.csprojAssemblyReference.cache
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\SunInfo.g.cs
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer_MarkupCompile.cache
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer_MarkupCompile.lref
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\SunInfo.baml
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer.g.resources
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer.csproj.CopyComplete
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer.dll
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer.pdb
+C:\Users\USER\Source\Repos\ApiConsumer\ApiConsumer\obj\Debug\netcoreapp3.1\ApiConsumer.genruntimeconfig.cache

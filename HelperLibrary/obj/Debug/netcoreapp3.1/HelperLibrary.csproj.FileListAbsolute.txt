@@ -1,0 +1,18 @@
+C:\web projects\xkcdAPI\ApiConsumer\HelperLibrary\bin\Debug\netcoreapp3.1\HelperLibrary.deps.json
+C:\web projects\xkcdAPI\ApiConsumer\HelperLibrary\bin\Debug\netcoreapp3.1\HelperLibrary.dll
+C:\web projects\xkcdAPI\ApiConsumer\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.csprojAssemblyReference.cache
+C:\web projects\xkcdAPI\ApiConsumer\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.AssemblyInfoInputs.cache
+C:\web projects\xkcdAPI\ApiConsumer\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.AssemblyInfo.cs
+C:\web projects\xkcdAPI\ApiConsumer\HelperLibrary\bin\Debug\netcoreapp3.1\HelperLibrary.pdb
+C:\web projects\xkcdAPI\ApiConsumer\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.csproj.CoreCompileInputs.cache
+C:\web projects\xkcdAPI\ApiConsumer\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.dll
+C:\web projects\xkcdAPI\ApiConsumer\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.pdb
+C:\Users\USER\Source\Repos\ApiConsumer\HelperLibrary\bin\Debug\netcoreapp3.1\HelperLibrary.deps.json
+C:\Users\USER\Source\Repos\ApiConsumer\HelperLibrary\bin\Debug\netcoreapp3.1\HelperLibrary.dll
+C:\Users\USER\Source\Repos\ApiConsumer\HelperLibrary\bin\Debug\netcoreapp3.1\HelperLibrary.pdb
+C:\Users\USER\Source\Repos\ApiConsumer\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.csprojAssemblyReference.cache
+C:\Users\USER\Source\Repos\ApiConsumer\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\ApiConsumer\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\ApiConsumer\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\ApiConsumer\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.dll
+C:\Users\USER\Source\Repos\ApiConsumer\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.pdb
