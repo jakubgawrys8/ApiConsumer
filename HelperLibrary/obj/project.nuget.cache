@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SIxyquzh9OfmdsCTzG7JdvOFlin4Q/YeTzGZ0fnArPZaGQRc5BqjtIKRz2VyLIyGTRDku8rlTluJhKa5BLPX+g==",
+  "dgSpecHash": "S3Hdcdzt6Hq+NlLd6PFTcVNEmibSuMAfh6AEKR0gp+9dScWv2MPflzMr3emQGhzAikUBOHzGsut96OJLb6oNxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\ApiConsumer\\HelperLibrary\\HelperLibrary.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\ApiConsumer\\HelperLibrary\\HelperLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

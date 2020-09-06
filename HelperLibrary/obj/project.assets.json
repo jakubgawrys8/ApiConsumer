@@ -5205,11 +5205,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\ApiConsumer\\HelperLibrary\\HelperLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\ApiConsumer\\HelperLibrary\\HelperLibrary.csproj",
       "projectName": "HelperLibrary",
-      "projectPath": "C:\\Users\\USER\\Source\\Repos\\ApiConsumer\\HelperLibrary\\HelperLibrary.csproj",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\ApiConsumer\\HelperLibrary\\HelperLibrary.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Source\\Repos\\ApiConsumer\\HelperLibrary\\obj\\",
+      "outputPath": "C:\\Users\\USER\\source\\repos\\ApiConsumer\\HelperLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -7,9 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HelperLibrary\HelperLibrary.csproj">
-      <Private>true</Private>
-    </ProjectReference>
+    <ProjectReference Include="..\HelperLibrary\HelperLibrary.csproj" />
   </ItemGroup>
 
 </Project>

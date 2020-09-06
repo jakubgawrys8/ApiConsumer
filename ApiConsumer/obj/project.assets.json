@@ -5223,11 +5223,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\ApiConsumer\\ApiConsumer\\ApiConsumer.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\ApiConsumer\\ApiConsumer\\ApiConsumer.csproj",
       "projectName": "ApiConsumer",
-      "projectPath": "C:\\Users\\USER\\Source\\Repos\\ApiConsumer\\ApiConsumer\\ApiConsumer.csproj",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\ApiConsumer\\ApiConsumer\\ApiConsumer.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Source\\Repos\\ApiConsumer\\ApiConsumer\\obj\\",
+      "outputPath": "C:\\Users\\USER\\source\\repos\\ApiConsumer\\ApiConsumer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5246,8 +5246,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\USER\\Source\\Repos\\ApiConsumer\\HelperLibrary\\HelperLibrary.csproj": {
-              "projectPath": "C:\\Users\\USER\\Source\\Repos\\ApiConsumer\\HelperLibrary\\HelperLibrary.csproj"
+            "C:\\Users\\USER\\source\\repos\\ApiConsumer\\HelperLibrary\\HelperLibrary.csproj": {
+              "projectPath": "C:\\Users\\USER\\source\\repos\\ApiConsumer\\HelperLibrary\\HelperLibrary.csproj"
             }
           }
         }
